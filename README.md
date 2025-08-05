@@ -1,7 +1,7 @@
 # checkpoint6
 Classes en Python, Mongo, Api, Postman, poliformismo, método dunder y decorador Python
 
-![alt text](<checkpoint/imagen portada.png>)
+![alt text](<imagen portada.png>)
 
 ## Clases en Python
 
